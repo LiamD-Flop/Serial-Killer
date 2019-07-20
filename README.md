@@ -5,4 +5,5 @@ The longer they wait, the less money they'll get.
 
 # Branch info
 Master = Stable
+
 Dev    = Not Stable
